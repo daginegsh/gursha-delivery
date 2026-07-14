@@ -27,3 +27,10 @@ lib/
 - **State Management:** Provider
 - **Backend Services:** Firebase Auth & Cloud Firestore
 - **Database:** NoSQL Cloud Database
+-  App Screenshots
+
+### Splash Screen
+<img src="assets/images/splash.jpg" width="300" alt="Splash Screen">
+
+### Login Screen
+<img src="assets/images/Login1.jpg" width="300" alt="Login Screen">
