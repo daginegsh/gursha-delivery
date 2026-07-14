@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "423399298040",
+    "project_id": "guresha-delivery",
+    "storage_bucket": "guresha-delivery.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423399298040:android:50f92f0d67b8e24b09bc0d",
+        "android_client_info": {
+          "package_name": "com.example.gursha_delivery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNB3KYLhinfc0xEg3IeSljKFzpk8OcrFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
